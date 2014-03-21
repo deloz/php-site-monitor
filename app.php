@@ -1,7 +1,8 @@
 <?php
 
 /**
- * @descrition 批量检测是否可以正常打开
+ * @descrition 批量检测网站是否可以正常打开
+ * @author Deloz
  * @date 2014.03.17
  * @version 0.0.1
  */
