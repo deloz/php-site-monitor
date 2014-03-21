@@ -1,0 +1,11 @@
+www.baidu.com
+www.qq.com
+www.google.com.tw
+www.facebook.com
+www.twitter.com
+www.sf.gg
+www.cnbeta.com
+www.163.com
+github.com
+fsf.org
+debian.org
